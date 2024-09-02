@@ -1,8 +1,8 @@
 module github.com/sunriselayer/sunrise/pkg/namespace
 
-go 1.21.1
+go 1.22.2
 
-toolchain go1.21.5
+toolchain go1.22.2
 
 require github.com/stretchr/testify v1.8.4
 
